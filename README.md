@@ -25,11 +25,10 @@
 <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" heigth = 30 width = 30 align = "left">
 <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png?size=48" heigth = 30 width = 30 align = "left">
 <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png?size=48" heigth = 30 width = 30 align = "left">
-<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?size=48" heigth = 30 width = 30 align = "left">
+<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?size=48" heigth = 30 width = 30">
 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/
-?username=dmlpYunus">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dmlpYunus&show_icons=true&theme=github_dark">
 
 
 [linkedin]:https://www.linkedin.com/in/yunus-can-dumlupinar/
