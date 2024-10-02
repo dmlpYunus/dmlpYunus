@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hello there, I am Yunus Can  :handshake:
 
-<!--
-**dmlpYunus/dmlpYunus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Computer Science Engineer | New Grad Developer
 
-Here are some ideas to get you started:
+<font color = "gray"> :email: Reach me out yunus.dmlp@gmail.com</font>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Links 
+
+
+
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/linkedin.svg" align = "left"/>][linkedin]
+
+
+<br/>
+<br/>
+
+### Languages & Environments
+
+<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" heigth = 30 width = 30 align = "left">
+<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" heigth = 30 width = 30 align = "left">
+<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" heigth = 30 width = 30 align = "left">
+<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" heigth = 30 width = 30 align = "left">
+<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" heigth = 30 width = 30 align = "left">
+<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" heigth = 30 width = 30 align = "left">
+<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" heigth = 30 width = 30 align = "left">
+<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png?size=48" heigth = 30 width = 30 align = "left">
+<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png?size=48" heigth = 30 width = 30 align = "left">
+<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?size=48" heigth = 30 width = 30">
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dmlpYunus&show_icons=true&theme=github_dark">
+
+
+[linkedin]:https://www.linkedin.com/in/yunus-can-dumlupinar/
